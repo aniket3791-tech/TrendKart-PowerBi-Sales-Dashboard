@@ -31,19 +31,19 @@ The dashboard enables users to explore business performance through interactive 
 
 ## Sales Analysis
 
-![Sales Analysis](assets/sales-analysis.png)
+![Sales Analysis](assets/Sales-Analysis.png)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](assets/customer-analysis.png)
+![Customer Analysis](assets/Customer-Analysis.png)
 
 ---
 
 ## Return Analysis
 
-![Return Analysis](assets/return-analysis.png)
+![Return Analysis](assets/Return-Analysis.png)
 
 ---
 
